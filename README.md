@@ -2,5 +2,8 @@
 some text !
 
 ## subheader 
-atch tutorial on YouTube..
-test 01
+Watch tutorial on YouTube..
+
+## Local Development
+
+1. Open indem.html in your browser.
